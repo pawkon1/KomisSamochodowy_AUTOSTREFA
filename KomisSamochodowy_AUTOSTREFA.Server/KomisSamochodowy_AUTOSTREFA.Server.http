@@ -1,0 +1,6 @@
+@KomisSamochodowy_AUTOSTREFA.Server_HostAddress = http://localhost:5266
+
+GET {{KomisSamochodowy_AUTOSTREFA.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
